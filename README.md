@@ -21,7 +21,7 @@ High-quality 4K MP4 version intended for video editing, press coverage and conte
 
 - Steam: https://store.steampowered.com/app/4698020/
 - Developer: Gustavo Rios
-- Contact: COLOQUE_SEU_EMAIL
+- Contact: relayprotocolgame@gmail.com
 
 ## Usage
 
