@@ -15,7 +15,7 @@ Includes logos, key art, screenshots, developer information, factsheet and a 4K 
 
 High-quality 4K MP4 version intended for video editing, press coverage and content creation.
 
-[Download 4K High-Quality Trailer](https://github.com/SEU_USUARIO/relay-protocol-press-kit/releases/latest/download/RelayProtocol_Trailer_4K_HQ.mp4)
+[Download the Relay Protocol Trailer in 4K](https://github.com/gustavorios2929/relay-protocol-press-kit/releases/latest/download/Relay.Protocol_trailer.2.EA_4K.mp4)
 
 ## Links
 
