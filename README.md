@@ -9,7 +9,7 @@ Relay Protocol is a minimalist logical puzzle game designed for solo play and tw
 
 Includes logos, key art, screenshots, developer information, factsheet and a 4K version of the trailer.
 
-[Download Relay Protocol Press Kit](https://github.com/SEU_USUARIO/relay-protocol-press-kit/releases/latest/download/RelayProtocol_PressKit.zip)
+*soon*
 
 ### 4K High-Quality Trailer
 
