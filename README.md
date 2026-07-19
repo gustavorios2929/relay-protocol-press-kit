@@ -1,4 +1,4 @@
-# Relay Protocol press-kit
+# Relay Protocol Press Kit
 Official press kit and media assets for **Relay Protocol Videogame**.
 
 Relay Protocol is a minimalist logical puzzle game designed for solo play and two-player online co-op.
